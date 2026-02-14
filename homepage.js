@@ -68,10 +68,10 @@ container.appendChild(title);
 
 // 🌹 Rounded profile picture
 const profile = document.createElement('img');
-profile.src = './two.jpeg'; // replace with friend's pic
+profile.src = './two.jpeg'; 
 profile.alt = 'Profile Picture';
-profile.style.width = '35%';    // increased from 30%
-profile.style.height = '45%';   // increased from 40%
+profile.style.width = '35%';    
+profile.style.height = '45%';  
 profile.style.borderRadius = '50%';
 profile.style.objectFit = 'cover';
 profile.style.border = '4px solid white';
@@ -173,10 +173,10 @@ setInterval(() => createHeart(), 500);
 // 📱 Responsive adjustments
 function adjustResponsive() {
     if(window.innerWidth < 500){
-        title.style.fontSize = '2em';
-        message.style.fontSize = '1.2em';
-        profile.style.width = '120px';
-        profile.style.height = '120px';
+        title.style.fontSize = '3em';
+        message.style.fontSize = '1.5em';
+        profile.style.width = '140px';
+        profile.style.height = '140px';
     } else {
         title.style.fontSize = '3em';
         message.style.fontSize = '1.5em';

@@ -205,11 +205,11 @@ messages.forEach((msg) => {
   card.style.borderRadius = "20px";
   card.style.boxShadow = "0 10px 25px rgba(0,0,0,0.3)";
   card.style.backgroundColor = msg.main
-    ? "rgba(173, 216, 230, 0.85)"
-    : "rgba(255,255,255,0.85)";
+    ? "rgba(86, 201, 240, 0.85)"
+    : "rgba(163, 86, 86, 0.32)";
   card.style.color = "#333";
-  card.style.fontSize = "1.2em";
-  card.style.lineHeight = "1.6";
+  card.style.fontSize = "3em";
+  card.style.lineHeight = "2";
   card.style.fontStyle = msg.main ? "italic" : "normal";
   card.style.fontFamily = msg.main
     ? "Pristina, cursive"
@@ -228,7 +228,7 @@ function adjustResponsive() {
     cardsContainer.style.gap = "20px";
     messages.forEach((msg, i) => {
       const card = cardsContainer.children[i];
-      card.style.fontSize = msg.main ? "1.4em" : "1em";
+      card.style.fontSize = msg.main ? "2em" : "3em";
       card.style.maxWidth = "90%";
     });
     container.style.padding = "20px";
@@ -236,7 +236,7 @@ function adjustResponsive() {
     cardsContainer.style.gap = "30px";
     messages.forEach((msg, i) => {
       const card = cardsContainer.children[i];
-      card.style.fontSize = msg.main ? "1.6em" : "1.2em";
+      card.style.fontSize = msg.main ? "3em" : "4em";
       card.style.maxWidth = "600px";
     });
     container.style.padding = "40px 20px";

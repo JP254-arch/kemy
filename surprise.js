@@ -91,13 +91,13 @@ leftSection.appendChild(profile);
 // Typing + color changing text
 const typingText = document.createElement("div");
 typingText.style.marginTop = "15px";
-typingText.style.fontSize = "1.4em";
+typingText.style.fontSize = "3em";
 typingText.style.fontWeight = "bold";
 typingText.style.textAlign = "center";
 typingText.style.animation = "pulse 2s infinite";
 leftSection.appendChild(typingText);
 
-const textString = "Happy😊 Valentine🌹 Fridah💝";
+const textString = "Happy😊 Valentine's🌹 Fridah💝";
 const colors = ["blue", "red", "purple", "orange"];
 
 let i = 0;
