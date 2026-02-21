@@ -224,23 +224,24 @@ Happy Valentine’s Day ❤️`
 
 createGiftCard(
   "❤️ Open Letter",
-  `Dear Fridah,
- Today means so much to me because it finally gives me the courage to open my heart to you. I have waited for this moment for a long time, just to tell you how much you truly mean to me.
+//   `Dear Fridah,
+//  Today means so much to me because it finally gives me the courage to open my heart to you. I have waited for this moment for a long time, just to tell you how much you truly mean to me.
  
- When I'm alone, I think of so many things to say to you, but when I finally have the chance to tell you, I go completely speechless. Somehow, your presence takes all my words away and leaves only the feelings in my heart. 
+//  When I'm alone, I think of so many things to say to you, but when I finally have the chance to tell you, I go completely speechless. Somehow, your presence takes all my words away and leaves only the feelings in my heart. 
  
- From the very first moment I laid my eyes on you, something changed in me. Since then, you have been on my mind in ways I cannot explain — through sleepless nights and quiet moments when all I can do is think about you. Every moment I spend with you brings me peace, comfort, and a happiness that feels so natural. Being with you feels like home, and honestly, I never want to walk away from that feeling. 
+//  From the very first moment I laid my eyes on you, something changed in me. Since then, you have been on my mind in ways I cannot explain — through sleepless nights and quiet moments when all I can do is think about you. Every moment I spend with you brings me peace, comfort, and a happiness that feels so natural. Being with you feels like home, and honestly, I never want to walk away from that feeling. 
  
- You're not just someone I want to be with. You're the one I never want to be without.
+//  You're not just someone I want to be with. You're the one I never want to be without.
  
- I may not always say “I love you,” because what I feel for you feels deeper than words can fully express. It’s something growing quietly and sincerely in my heart, and I hope that one day you will see it and understand how real it is. Whenever I look at you, I don’t just see the present — I see a bright future, one where my life shines because you are beside me, glowing and making everything more beautiful. 
+//  I may not always say “I love you,” because what I feel for you feels deeper than words can fully express. It’s something growing quietly and sincerely in my heart, and I hope that one day you will see it and understand how real it is. Whenever I look at you, I don’t just see the present — I see a bright future, one where my life shines because you are beside me, glowing and making everything more beautiful. 
  
- It’s hard to explain just how much you mean to me, but you make my heart feel alive in the most incredible way. The thought of building a future with you, of sharing life’s moments together, is something I truly cherish in my heart. 
+//  It’s hard to explain just how much you mean to me, but you make my heart feel alive in the most incredible way. The thought of building a future with you, of sharing life’s moments together, is something I truly cherish in my heart. 
  
- I hope that, in your own way, you may feel something similar. And even if you don’t, I will always appreciate you and wish you happiness, because seeing you smile will always matter to me. 
+//  I hope that, in your own way, you may feel something similar. And even if you don’t, I will always appreciate you and wish you happiness, because seeing you smile will always matter to me. 
  
- With all my heart, JP`,
-  true
+//  With all my heart, JP`,
+`🕊️`,  
+true
 );
 
 // =============================
